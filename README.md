@@ -1,2 +1,3 @@
 # Projet-Stage-eleves-ingenieurs
 Fiche de présentation du projet de stage des élèves ingénieurs de l'école ...
+à destination du " comité " ( <directrice d'asso + Référente d'antenne + référente du fablab )
